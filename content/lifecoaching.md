@@ -20,7 +20,12 @@ You'll start to see progress from the very first session and where you go from t
 
 ## Pricing:
 
-To book a session email me at:
+*Do you work for or with a UK charity or are you a customer of one?*
+
+I'm looking to gain experience working with different clients so for a limited time I'm offereing free sessions & messaging support to charity workers, volunteers and customers of charities. Email me using the address below to find out if you're eligible.
+
+
+*To book a session email me at:*
 
 lifecoachbaig@zohomail.eu
 
@@ -85,3 +90,4 @@ At some point in history, someone invented the first spear. Something that had n
 Coaching teaches you not just the power of vision, but how to implement it as well as holding you accountable for taking the steps you create towards your goals, dreams and aspirations. I'm not going to hold your hand, but I'm also not going to let you fail!
 
 Don't live everyday like it's your last, live everyday like it's your FIRST! You have EVERYTHING to gain! All the lessons from the days, weeks, months, years and decades since you were born. Every decision you've made in life has brought you to where you are now, and every decision you make from now on will determine where you go from here!
+
