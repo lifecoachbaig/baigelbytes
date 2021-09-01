@@ -87,7 +87,7 @@ If everyone on earth since the dawn of our species had the power to fly, would w
 
 At some point in history, someone invented the first spear. Something that had never existed before, something no one else had even imagined let alone thought impossible! Look at us now! There's a lot we need to improve on as a species but boy have we progressed!! Vision, isn't our only superpower, but if you ask me, it might just be our greatest.
 
-Coaching teaches you not just the power of vision, but how to implement it as well as holding you accountable for taking the steps you create towards your goals, dreams and aspirations. I'm not going to hold your hand, but I'm also not going to let you fail!
+Coaching teaches you not just the power of vision, but how to implement it as well as holding you accountable for taking the steps you create towards your goals, dreams and aspirations. 
 
 Don't live everyday like it's your last, live everyday like it's your FIRST! You have EVERYTHING to gain! All the lessons from the days, weeks, months, years and decades since you were born. Every decision you've made in life has brought you to where you are now, and every decision you make from now on will determine where you go from here!
 
