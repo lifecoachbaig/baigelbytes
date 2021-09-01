@@ -50,7 +50,7 @@ This is for the people who are ready to change their lives and to put in the con
 If you are unsure if this is for you, I would recomend booking a one off session first.
 
 ### One, 30 Minute Coaching Session
-30 minutes · £30
+£30
 
 These shorter 30 minute sessions are for people who just want a quick taste of what working with a life coach is like. They follow a condensed version of the 1 hour format so we still get to see where you are now and what goals and aspirations you have, but not as in depth as we could with a full hour session.
 30 Minute sessions don't come with any additional support as they are really just taster sessions.
