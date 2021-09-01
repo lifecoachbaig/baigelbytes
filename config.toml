@@ -1,5 +1,5 @@
 baseURL = "https://lifecoachbaig.github.io/baigelbytes/"
-title   = "Hello Friend NG"
+title   = "Baigel Bytes"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Adnan Baig"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -110,9 +110,9 @@ disableHugoGeneratorInject = false
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
-    trademark = true
-    rss = true
-    copyright = true
+    trademark = false
+    rss = false
+    copyright = false
     author = true
 
     topText = []
@@ -195,6 +195,11 @@ disableHugoGeneratorInject = false
     name       = "About"
     url        = "about/"
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+    identifier = "blog"
+    name       = "Blog"
+    url        = "blog/"
+  [[menu.main]]
+    identifier = "lifecoaching"
+    name       = "Life Coaching"
+    url        = "lifecoaching/"
+
