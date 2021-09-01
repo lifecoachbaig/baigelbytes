@@ -162,7 +162,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "adnanbaig601@gmail.com"
+    url  = "mailto:lifecoachbaig@zohomail.com"
 
     [[params.social]]
     name = "facebook"
