@@ -113,13 +113,11 @@ disableHugoGeneratorInject = false
     trademark = false
     rss = false
     copyright = false
-    author = true
+    author = false
 
     topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
-    ]
+          ]
 
   # Colors for favicons
   #
@@ -160,23 +158,20 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/adnanbaig601"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "lifecoachbaig@zohomail.eu"
 
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
-
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    [[params.social]]
+    name = "facebook"
+    url  = "https://www.facebook.com/adnan.baig.73"
+  
+   [[params.social]]
+    name = "instagram"
+    url  = "https://www.instagram.com/adnanbaig601/"
+ 
 
 [languages]
   [languages.en]
