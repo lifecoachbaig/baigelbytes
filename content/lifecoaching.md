@@ -20,9 +20,9 @@ You'll start to see progress from the very first session and where you go from t
 
 ## Pricing:
 
-*Do you work for or with a UK charity or are you a customer of one?*
+*Would you be interested in free life coaching?*
 
-I'm looking to gain experience working with different clients so for a limited time I'm offereing free sessions & messaging support to charity workers, volunteers and customers of charities. Email me using the address below to find out if you're eligible.
+I'm looking to gain experience working with different clients so for a limited time I'm offereing free sessions & messaging support. Email me using the address below if you're interested!
 
 
 *To book a session email me at:*
