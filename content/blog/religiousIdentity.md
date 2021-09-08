@@ -10,8 +10,8 @@ tags = [
 ]
 date = "2021-09-08"
 categories = [
-    "Cat1",
-    "Cat2",
+    "",
+    "",
 ]
 series = ["Religion"]
 [ author ]
