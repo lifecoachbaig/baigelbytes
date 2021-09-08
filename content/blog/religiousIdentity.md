@@ -83,13 +83,14 @@ If you're an atheist or otherwise not religious, think of the things that you ho
 
 You're both human! That's what comes first, regardless of anyone's opinions. Hurling insults at people and ripping up books that they hold sacred is not respecting their humanity, plain and simple!
 
-And the same goes for damning people to hell and giving them death threats, that's unchristian, un-Islamic certainly disrespectful and not ok, after all, do most religions not preach that God and God alone can judge and decide the fate of people?
 
 ## Some advice for Muslims and people of faith in general.
 
 Again, respect comes first. It's possible to disagree with someone and still respect them and as I hope you figured out from this article, as a former Muslim I know how it feels to have something I once considered as a part of who I was be insulted.
 
 But like I mentioned, what should the end goal be? You could say that the end goal is to convert everyone to your particular faith but that would not be respecting peoples freedoms. If you want the right to practice your faith you have to extend the same right to other people to practice theirs and that includes people of no faith.
+
+The same goes for damning people to hell and giving them death threats, that's unchristian, un-Islamic certainly disrespectful and not ok, after all, do most religions not preach that God and God alone can judge and decide the fate of people?
 
 This is why I think the end goal should be to co-exist peacefully.
 
