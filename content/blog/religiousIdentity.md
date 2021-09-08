@@ -1,5 +1,5 @@
 +++
-title = "Why Muslims often get ofended when you criticise their religion."
+title = "Why Muslims often get offended when you criticise their religion."
 description = ""
 type = ["posts","post"]
 tags = [
