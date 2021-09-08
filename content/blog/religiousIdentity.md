@@ -1,7 +1,22 @@
----
-title: "Why Muslims often get offended when you criticise their religion."
-date: 2021-09-08
----
++++
+title = "Why Muslims often get ofended when you criticise their religion."
+description = ""
+type = ["posts","post"]
+tags = [
+    "Religion",
+    "Philosophy",
+    "Humanism",
+    "Respect",
+]
+date = "2021-09-08"
+categories = [
+    "Cat1",
+    "Cat2",
+]
+series = ["Religion"]
+[ author ]
+  name = "Adnan Baig"
++++
 
 
 ## Some ideas for more respectful discussions.
@@ -134,3 +149,5 @@ Twitter: https://twitter.com/adnanbaig601
 [^1]: I'm aware this doesn't just happen with Islam but also happens with other religions, I'm covering Islam in particular because I feel like (and I could be wrong) this happens at least slightly more with Islam than other religions.
 
 [^2]: Progression wouldn't nessacerily be liniar on smaller scales but overal get better. This is something we can see as having happened in society already through the decades.
+
+
