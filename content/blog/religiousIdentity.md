@@ -1,6 +1,6 @@
 ---
 title: "Why Muslims often get offended when you criticise their religion."
-date: 2021-09-08T13:58:00+01:00
+date: 2021-09-08
 ---
 
 
