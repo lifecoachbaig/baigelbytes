@@ -30,6 +30,9 @@ Atheists often don't seem to understand why this is. In this article I aim to ex
 
 In order to be able to learn, adapt, evolve and progress as a society, we need to be able to be critical of any aspect of society *(but more importantly this needs to be done in a way that's respectful to everyone in the discussion)* because ideas and people that are thought of as being above the law can sometimes become dangerous regardless of whether those people or ideas are religious or not.
 
+*Edit:* Think of slavery. For most of the history of civilisation it was the norm accross the world. It was only when it was questioned that society began to transcend it. Humanity is still very much on that journey today but we have to agree things are at least slightly better now.
+
+
 So, why do Muslims (and perhaps people of other faiths) get offended or at least emotional when their faith and not they as individuals are criticised?
 
 
