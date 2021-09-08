@@ -28,14 +28,14 @@ I've been watching young atheists and x-Muslims debating Muslims for a while now
 
 Atheists often don't seem to understand why this is. In this article I aim to explain my opinion on why Muslims and perhaps people of other faiths get offended when their ideology specifically is criticized and some ideas for how people on both sides of the atheism vs religion debate could work past this issue.
 
-In order to be able to learn, adapt, evolve and progress as a society, we need to be able to be critical of any aspect of society *(but more importantly this needs to be done in a way that respectful to everyone in the discussion)* because ideas and people that are thought of as being above the law can sometimes become dangerous regardless of whether those people or ideas are religious or not.
+In order to be able to learn, adapt, evolve and progress as a society, we need to be able to be critical of any aspect of society *(but more importantly this needs to be done in a way that's respectful to everyone in the discussion)* because ideas and people that are thought of as being above the law can sometimes become dangerous regardless of whether those people or ideas are religious or not.
 
 So, why do Muslims (and perhaps people of other faiths) get offended or at least emotional when their faith and not they as individuals are criticised?
 
 
 ## It's a part of their identity.
 
-To a Muslim, Islam isn't merely a set of ideals or a philosophy to live by, it's a central, intrinsic and indispensible aspect of who they are as a human being! Some people even said they believed faith is something they were born with and that it was inately a part of them almost a part of their DNA! Regardless of whether or not that is scientifically true this clearly illustrates just how strongly Muslims at least feel about their faith.
+To a Muslim, Islam isn't merely a set of ideals or a philosophy to live by, it's a central, intrinsic and indispensible aspect of who they are as a human being! Some people who I spoke to even said they believed faith is something they were born with and that it was inately a part of them almost a part of their DNA! Regardless of whether or not that is scientifically true this clearly illustrates just how strongly Muslims at least feel about their faith.
 
 Therefore, to criticise their religion is necessarily to criticise them at least from their perspective. There is no partition in the mind of the average Muslim, separating religion from self.
 
