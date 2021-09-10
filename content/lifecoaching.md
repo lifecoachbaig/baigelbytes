@@ -27,7 +27,7 @@ I'm looking to gain experience working with different clients so for a limited t
 
 *To book a session email me at:*
 
-lifecoachbaig@zohomail.eu
+baigelbytes@gmail.com
 
 There are several different options listed below feel free to pick whichever one best suits your needs. Please mention the service you're interested in using in the booking email.
 

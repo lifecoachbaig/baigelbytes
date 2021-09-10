@@ -15,7 +15,7 @@ On this blog site I will cover topics such as self help, self improvment or skil
 <br>
 <br>
 
-*Email:* lifecoachbaig@zohomail.eu
+*Email:* baigelbytes@gmail.com
 
 *Facebook:* https://www.facebook.com/lifecoachbaig 
 
